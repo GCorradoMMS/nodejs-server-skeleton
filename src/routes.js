@@ -8,6 +8,7 @@ const routes = express.Router();
 // req.query = acessar query params (busca, filtros, get)
 // req.params = acessar route params (edição, delete)
 // req.body = acessar corpo da requisição (edição, delete)
+//commit teste
 
 
 routes.get('/', function(req, res){
